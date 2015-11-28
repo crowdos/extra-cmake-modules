@@ -1,0 +1,5 @@
+extra-cmake-modules (5.16.0-1cos) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Mohammed Sameer <msameer@foolab.org>  Sat, 28 Nov 2015 22:45:03 +0200
